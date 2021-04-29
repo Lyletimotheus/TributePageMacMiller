@@ -1,20 +1,45 @@
+
+
+
+body{
+    background-color: rgb(67, 6, 21);
+    color: yellow;
+    font-family:"Monospace",Lucida Console;
+}
 h1 {
     font-size: 100px;
     text-align: center;
+    color: yellow;
+
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    color: yellow;
 }
 p {
     text-align: center;
+    color: yellow;
 }
 img {
-    max-width: 80%;
+    max-width: 100%;
     display: block;
     height: auto;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    color: yellow;
 }
 li{
     text-align: center;
+    color: yellow;
 }
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto auto;
+    color: yellow;
+}
+.grid-container2 {
+    display: grid;
+
+    color: yellow;
 }
